@@ -1,0 +1,58 @@
+{
+  "whatWeDo": "What we do",
+  "howItWorks": "How it works",
+  "whoWeInvestIn": "Who we invest in",
+  "testimonials": "Testimonials",
+  "getFunded": "Get Funded",
+  "hero": {
+  "title": {
+    "line1": "Redefine How",
+    "line2": "You Grow your",
+    "line3": "Digital Business"
+  },
+  "description": "Revenue based funding and execution support designed for early stage founders"
+},
+  "whatWeDoSection": {
+    "tag": "What we do",
+    "title": "Empowering founders with Non Dilutive Capital and execution expertise",
+    "description": "Here is how we can evaluate",
+    "block1": {
+      "title": "Blue Advances",
+      "description": "Fund recurring growth expenses e.g. customer acquisition, inventory"
+    },
+    "block2": {
+      "title": "Blue Seed",
+      "description": "Fund one-offs to scale e.g. product, hiring."
+    },
+    "support": {
+      "title": "Blue Growth Support",
+      "description": "Data Insights and full stack expertise to supercharge growth",
+      "point1": "Actionable data insights by connecting revenue, marketing and social media platforms",
+      "point2": "On demand execution expertise at cost or revenue share across proposition design, engineering, marketing, analytics, partnerships, brand, intellectual property, market expansion, talent management."
+    }
+  },
+  "howItWorksSection": {
+  "tag": "How it works",
+  "title": "Unlocking potential along the growth journey",
+  "features": [
+    {
+      "title": "Apply online",
+      "description": "Tell us about your business, revenue, and growth plans"
+    },
+    {
+      "title": "Get an offer",
+      "description": "We evaluate your business and provide a capital offer"
+    },
+    {
+      "title": "Access funds",
+      "description": "Receive funds quickly and put them to work"
+    }
+  ]
+},
+"ourDiff": {
+    "tag": "Our Difference",
+    "title": "Fair capital, hassle free",
+    "description": "Our mission is to level the playing field for early stage growth capital. We provide capital that is unbiased, flexible and non-dilutive with the execution support to accelerate value creation."
+  }
+
+}
