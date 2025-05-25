@@ -34,108 +34,108 @@ export const HeroData = [
 export const features = [
   {
     icon: "/features/Frame-0.png",
-    title: "3x monthly revenue",
+    title: "توسعه سریع و مقیاس‌پذیر",
   },
   {
     icon: "/features/Frame-1.png",
-    title: "Flat fee of 6-12%",
+    title: "طراحی واکنش‌گرا با Tailwind CSS",
   },
   {
     icon: "/features/Frame-2.png",
-    title: "Flexible repayments by revenue share",
+    title: "پنل‌های مدیریتی پیشرفته با Django",
   },
   {
     icon: "/features/Frame-3.png",
-    title: "3-4 years repayment",
+    title: "توسعه فرانت‌اند مدرن با Next.js",
   },
   {
     icon: "/features/Frame-4.png",
-    title: "$10-100k seed investment",
+    title: "ارتباط امن و سریع با API اختصاصی",
   },
   {
     icon: "/features/Frame-5.png",
-    title: "2% of revenue up to 3X cap",
+    title: "امکان گسترش بین‌المللی برای کسب‌وکارها",
   },
 ];
 
 export const ourDiffFeatures = [
   {
     icon: "/OurDiff/Frame-0.png",
-    title: "Data Driven",
-    des: "Our mission is to level the playing field for early stage growth capital. We provide capital that is unbiased, flexible and non dilutive with the execution support to accelerate value creation",
+    title: "تمرکز بر کیفیت و تجربه کاربری",
+    des: "تیم ما با بهره‌گیری از دانش طراحی و توسعه، بهترین تجربه کاربری را برای مخاطبان شما فراهم می‌کند.",
   },
   {
     icon: "/OurDiff/Frame-1.png",
-    title: "flexible funding",
-    des: "Funding that flexes as revenue grows with transparent costs and does not require dilution, personal guarantees or pitch decks",
+    title: "توسعه با جدیدترین تکنولوژی‌ها",
+    des: "با استفاده از فریمورک‌هایی مثل Next.js، Django، و Tailwind CSS، پروژه‌ها را با کیفیت بالا و قابلیت ارتقا توسعه می‌دهیم.",
   },
   {
     icon: "/OurDiff/Frame-2.png",
-    title: "value accelerating",
-    des: "On demand expertise to supercharge growth in areas that are hard to access for early stage founders",
+    title: "پشتیبانی کامل و مستمر",
+    des: "ما فقط پروژه تحویل نمی‌دهیم، بلکه تا رسیدن به موفقیت در کنارتان هستیم. مشاوره، بهبود و پشتیبانی مداوم را تضمین می‌کنیم.",
   },
 ];
 
 export const hitFeatures = [
   {
     icon: "/howItWorks/Frame-0.png",
-    title: "Connect",
-    des: "Register and qualify for funding in less than 5 mins. Connect revenue and marketing platforms you already use.",
+    title: "درخواست آنلاین",
+    des: "در کمتر از ۵ دقیقه پروژه‌تان را ثبت کنید و نیازهای خود را با ما به اشتراک بگذارید.",
   },
   {
     icon: "/howItWorks/Frame-1.png",
-    title: "Get Funded",
-    des: "Get a term sheet with upto 3 funding offers. Select option that best suits and complete onboarding to receive funds in days",
+    title: "تحلیل و ارائه پیشنهاد",
+    des: "ما نیاز کسب‌وکار شما را بررسی کرده و پیشنهاد فنی و زمانی متناسب ارائه می‌دهیم.",
   },
   {
     icon: "/howItWorks/Frame-2.png",
-    title: "Support Growth",
-    des: "Access curated feed of actionable insights and on demand execution expertise. Auto qualify for follow on funding as you grow",
+    title: "آغاز همکاری حرفه‌ای",
+    des: "پروژه شما توسط یک تیم حرفه‌ای با تعهد کامل و بصورت ریموت اجرا خواهد شد.",
   },
 ];
 
 export const whoWeInvest = [
   {
-    title: "Digital Business Model",
-    des: "Digital business model e.g. SaaS, subscription, D2C, apps",
+    title: "کسب‌و‌کارهای آنلاین و دیجیتال",
+    des: "فروشگاه‌های اینترنتی، استارتاپ‌های SaaS، اپلیکیشن‌ها و خدمات دیجیتال",
   },
   {
-    title: "Revenue Generating",
-    des: "Revenue generating for 6 months, > $1k in monthly recurring revenue",
+    title: "نیازمند توسعه یا بازطراحی",
+    des: "اگر به دنبال ارتقاء عملکرد، رابط کاربری یا سئو بهتر هستید، ما آماده‌ایم",
   },
   {
-    title: "Support Growth",
-    des: "Industry expertise: Fintech, Health, Deep tech, B2B software",
+    title: "توسعه MVP یا ایده اولیه",
+    des: "اگر در ابتدای مسیر هستید، کمک می‌کنیم تا نسخه اولیه کسب‌وکارتان را سریع راه‌اندازی کنید",
   },
   {
-    title: "International Expansion",
-    des: "Registered in Australia and Singapore (initially) with appetite for international expansion",
+    title: "همکاری ریموت و مستمر",
+    des: "ما با علاقه به صورت ریموت و بلندمدت با شما همکاری می‌کنیم تا پروژه‌تان به موفقیت برسد",
   },
 ];
 
 export const testimonialsData = [
   {
     comment:
-      "SUPER HAPPY! Not only do you get to see the best seed and Early Stage companies but the exciting part is there’s a bunch of investors",
-    name: "Zach Lee",
-    profession: "QA specialist, Matrix architect",
+      "از همکاری با تیم ابراهیم بسیار راضی بودم. دقت بالا، پشتیبانی عالی و نتیجه‌ای فراتر از انتظار من بود.",
+    name: "محمد رضایی",
+    profession: "مدیرعامل استارتاپ آموزشی",
   },
   {
     comment:
-      "I have been working with Cotek on our fundraising strategies. They understands the in depth strategies of Venture Capital and early stage fund raising/company",
-    name: "Cheryl R. Weiss",
-    profession: "Founder, Dubrow Cafeteria",
+      "وب‌سایت ما در مدت کوتاهی با طراحی زیبا و سرعت بالا راه‌اندازی شد. تیمی دقیق، متعهد و حرفه‌ای.",
+    name: "سارا محمدی",
+    profession: "مشاور کسب‌و‌کار",
   },
   {
     comment:
-      "Another masterpiece really digging into the art of venture funds, portfolio construction and deal mechanics! Loved it - I can say without hesitation that it is incredibly valuable for anyone who is investing",
-    name: "Vicky R. Lane",
-    profession: "Directork, Lafayette Radio",
+      "با کمک تیم ابراهیم، پنل مدیریت قدرتمندی برای فروشگاه‌مان پیاده‌سازی شد که کار را برای ما بسیار آسان کرد.",
+    name: "مهدی کریمی",
+    profession: "فروشگاه اینترنتی لوازم ورزشی",
   },
   {
     comment:
-      "BlueVenture is the premier setting for entrepreneurs and investors alike to exchange ideas, and network. As an entrepreneur, I can rely on the BlueVenture to bring top caliber speakers, entrepreneurs and investors",
-    name: "Jennifer Dubois",
-    profession: "Manager, China Coast",
+      "از انتخاب این تیم راضی‌ام. نه‌تنها پروژه را عالی تحویل دادند، بلکه همیشه در دسترس بودند و به خوبی پشتیبانی کردند.",
+    name: "زهرا کاظمی",
+    profession: "طراح گرافیک و برند",
   },
 ];

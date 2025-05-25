@@ -1,58 +1,57 @@
 {
-  "whatWeDo": "What we do",
-  "howItWorks": "How it works",
-  "whoWeInvestIn": "Who we invest in",
+  "whatWeDo": "What we offer",
+  "howItWorks": "How we work",
+  "whoWeInvestIn": "Who we work with",
   "testimonials": "Testimonials",
-  "getFunded": "Get Funded",
+  "getFunded": "Get in Touch",
   "hero": {
-  "title": {
-    "line1": "Redefine How",
-    "line2": "You Grow your",
-    "line3": "Digital Business"
+    "title": {
+      "line1": "Build Your Vision",
+      "line2": "With Expert",
+      "line3": "Web Development"
+    },
+    "description": "Over 8 years of experience in Python, JavaScript, Django, and Next.js — delivering high-performance digital solutions tailored to your needs."
   },
-  "description": "Revenue based funding and execution support designed for early stage founders"
-},
   "whatWeDoSection": {
-    "tag": "What we do",
-    "title": "Empowering founders with Non Dilutive Capital and execution expertise",
-    "description": "Here is how we can evaluate",
+    "tag": "What we offer",
+    "title": "A team of experts turning ideas into scalable digital products",
+    "description": "We specialize in full-stack development, web design, and technical consulting to help your business grow online.",
     "block1": {
-      "title": "Blue Advances",
-      "description": "Fund recurring growth expenses e.g. customer acquisition, inventory"
+      "title": "Custom Web Apps",
+      "description": "Fast, secure, and scalable web applications built with Next.js, Django, and modern technologies."
     },
     "block2": {
-      "title": "Blue Seed",
-      "description": "Fund one-offs to scale e.g. product, hiring."
+      "title": "UI/UX & Frontend",
+      "description": "Beautiful and responsive designs with Tailwind CSS and dynamic JavaScript interfaces."
     },
     "support": {
-      "title": "Blue Growth Support",
-      "description": "Data Insights and full stack expertise to supercharge growth",
-      "point1": "Actionable data insights by connecting revenue, marketing and social media platforms",
-      "point2": "On demand execution expertise at cost or revenue share across proposition design, engineering, marketing, analytics, partnerships, brand, intellectual property, market expansion, talent management."
+      "title": "Ongoing Support & Remote Collaboration",
+      "description": "We work remotely with teams around the world — ensuring smooth delivery, updates, and future-proof architecture.",
+      "point1": "Consulting and MVP development for startups and businesses",
+      "point2": "Agile development by a team of dedicated professionals"
     }
   },
   "howItWorksSection": {
-  "tag": "How it works",
-  "title": "Unlocking potential along the growth journey",
-  "features": [
-    {
-      "title": "Apply online",
-      "description": "Tell us about your business, revenue, and growth plans"
-    },
-    {
-      "title": "Get an offer",
-      "description": "We evaluate your business and provide a capital offer"
-    },
-    {
-      "title": "Access funds",
-      "description": "Receive funds quickly and put them to work"
-    }
-  ]
-},
-"ourDiff": {
-    "tag": "Our Difference",
-    "title": "Fair capital, hassle free",
-    "description": "Our mission is to level the playing field for early stage growth capital. We provide capital that is unbiased, flexible and non-dilutive with the execution support to accelerate value creation."
+    "tag": "How we work",
+    "title": "Simple process for powerful results",
+    "features": [
+      {
+        "title": "Get in touch",
+        "description": "Tell us about your idea or problem — we listen, ask smart questions, and understand your vision"
+      },
+      {
+        "title": "Plan & Estimate",
+        "description": "We define scope, tech stack, and timeline to match your goals"
+      },
+      {
+        "title": "Develop & Launch",
+        "description": "Our expert team builds, tests, and launches your project — ready to scale and perform"
+      }
+    ]
+  },
+  "ourDiff": {
+    "tag": "Why Us",
+    "title": "Real people, real results",
+    "description": "Our remote-first team combines deep technical skills with a passion for problem-solving. We care about clean code, communication, and helping you win in the digital world."
   }
-
 }
