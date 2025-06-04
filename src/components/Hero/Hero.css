@@ -1,3 +1,16 @@
+.hero-image-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
+
+.hero-main-image {
+  max-width: 100%;
+  border-radius: 1rem;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+  object-fit: cover;
+}
 .h-wrapper {
     background-color: var(--primary-color);
     height: 120vh;

@@ -53,47 +53,21 @@ const Hero = () => {
         <div className="h-container">
           <div className="h-left">
             <div className="image-row">
-              {HeroData.slice(0, 3).map((person, i) => (
-                <div className="person-pill" key={i}>
-                  <motion.div
-                    initial="initial"
-                    animate="animate"
-                    variants={variants()}
-                    style={{ backgroundColor: person.bg }}
-                    className="person-pill-bg"
-                  >
-                    <motion.img
-                      initial="initial"
-                      animate="animate"
-                      variants={imgVariants()}
-                      src={person.src}
-                      alt={person.src}
-                    />
-                  </motion.div>
-                </div>
-              ))}
+              <div className="hero-image-wrapper">
+                <motion.img
+                  initial="initial"
+                  animate="animate"
+                  variants={imgVariants()}
+                  src="/hero/person01.jpeg"
+                  alt="Me working"
+                  className="hero-main-image"
+                />
+              </div>
             </div>
+
             <div className="image-row">
-              {HeroData.slice(3, 6).map((person, i) => (
-                <div className="person-pill" key={i}>
-                  <motion.div
-                    initial="initial"
-                    animate="animate"
-                    variants={variants()}
-                    style={{ backgroundColor: person.bg }}
-                    className="person-pill-bg"
-                  >
-                    <motion.img
-                      initial="initial"
-                      animate="animate"
-                      variants={imgVariants()}
-                      src={person.src}
-                      alt={person.src}
-                    />
-                  </motion.div>
-                </div>
-              ))}
-            </div>
+          </div>
+
           </div>
 
           <div className="h-right">
