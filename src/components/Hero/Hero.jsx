@@ -58,7 +58,7 @@ const Hero = () => {
                   initial="initial"
                   animate="animate"
                   variants={imgVariants()}
-                  src="/hero/person01.jpeg"
+                  src="/hero/person01.png"
                   alt="Me working"
                   className="hero-main-image"
                 />
